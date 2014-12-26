@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CryptoString
 
 [![CI Status](http://img.shields.io/travis/dmitrinesterenko/CryptoString.svg?style=flat)](https://travis-ci.org/dmitrinesterenko/CryptoString)
@@ -27,9 +26,7 @@ dmitrinesterenko, dmitri.nesterenko@gmail.com
 
 CryptoString is available under the MIT license. See the LICENSE file for more info.
 
-=======
 CryptoString
 ============
 
 A Swift String extension to support HMACing and getting Base64 about life.
->>>>>>> 9476c4b5d2f60cfedc78d2c72cc18df3eb7bf930
